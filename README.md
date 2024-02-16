@@ -1,6 +1,6 @@
 ## Roziroti.work Task </br>
  <div align='center'>
-    <a href="https://drive.google.com/file/d/1BbaH_pPTtFfJ4oZkwQqk2lW7PnpHwki1/view?usp=sharing"> 🌐 Live 🌐</a> </div> </br>
+    <a href="https://rishimaheshwari123.github.io/24carrots.com-home-page"> 🌐 Live 🌐</a> </div> </br>
 
 ## Tech Stack Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
